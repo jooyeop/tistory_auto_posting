@@ -99,7 +99,7 @@ if __name__ == '__main__':
     content = f.read()
 
     visibility = 3 #(0: 비공개 - 기본값, 1: 보호, 3: 발행) 
-    category = 908537 # 글을 올리고 싶은 카테고리 번호 
+    category = 973726 # 글을 올리고 싶은 카테고리 번호 
     publish_time = '' 
     slogan = '' 
     tag = '논문,자연어처리,nlp,번역,arxiv,페이퍼' # 글 태그 
