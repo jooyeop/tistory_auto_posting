@@ -1,2 +1,1 @@
-# tistory_auto_postin
-
+# tistory_auto_posting
